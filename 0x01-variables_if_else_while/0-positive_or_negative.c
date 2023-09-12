@@ -1,6 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/**
+ * main - this programm prints a whether a number is postive or nagative
+ * Return: Always 0 (Success)
+ */
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
